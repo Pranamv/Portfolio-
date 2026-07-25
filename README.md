@@ -2,7 +2,7 @@
 
 A complete futuristic AI portfolio website built with HTML5, CSS3, JavaScript ES6, GSAP, Typed.js, Font Awesome, and optional Particles.js.
 
-## Features
+## Features..
 
 - GitHub-inspired dark UI with cyberpunk and Apple-style polish
 - Full-screen responsive two-column hero
